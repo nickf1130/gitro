@@ -1,5 +1,3 @@
-<html
-<body>
 
 ---
 title: SWEN 101 Github Intro
@@ -21,7 +19,7 @@ Information about [RIT Software Development](https://www.rit.edu/computing/depar
 
 My favorite meal to come home to: 
 
-<img src = "https://www.sprinklesandsprouts.com/wp-content/uploads/2023/09/Garlic-Parmesan-Chicken-Pasta-Sq.jpg" alt=SprinklesAndSprouts.com">
+![My favorite meal to see when coming home.](https://www.sprinklesandsprouts.com/wp-content/uploads/2023/09/Garlic-Parmesan-Chicken-Pasta-Sq.jpg")
 
 # Some things I'd like to learn:
 
@@ -30,6 +28,3 @@ My favorite meal to come home to:
   <li>How to write good, efficient code</li>
   <li>How to never write bugs in your code</li>
 </ul>  
-
-</body>
-</html>
