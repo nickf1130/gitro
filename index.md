@@ -16,7 +16,7 @@ Information about **[RIT Software Development]<https://www.rit.edu/computing/dep
 
 # An image of my favorite food:
 
-[![My favorite meal to come home to:]]([https://thetastytravelers.com/wp-content/uploads/2021/04/BWW-Parmesan-Garlic-Chicken-Pasta-Instant-Pot-29-1536x1187.jpg](https://www.sprinklesandsprouts.com/wp-content/uploads/2023/09/Garlic-Parmesan-Chicken-Pasta-Sq.jpg)https://www.sprinklesandsprouts.com/wp-content/uploads/2023/09/Garlic-Parmesan-Chicken-Pasta-Sq.jpg)
+My favorite meal to come home to: (https://www.sprinklesandsprouts.com/wp-content/uploads/2023/09/Garlic-Parmesan-Chicken-Pasta-Sq.jpg)
 
 # Some things I'd like to learn:
 
