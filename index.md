@@ -1,3 +1,6 @@
+<html
+<body>
+
 ---
 title: SWEN 101 Github Intro
 ---
@@ -27,3 +30,6 @@ My favorite meal to come home to:
   <li>How to write good, efficient code</li>
   <li>How to never write bugs in your code</li>
 </ul>  
+
+</body>
+</html>
