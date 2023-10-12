@@ -18,9 +18,7 @@ Information about [RIT Software Development](https://www.rit.edu/computing/depar
 
 # An image of my favorite food:
 
-My favorite meal to come home to: 
-
-![My favorite meal to see when coming home.](https://www.sprinklesandsprouts.com/wp-content/uploads/2023/09/Garlic-Parmesan-Chicken-Pasta-Sq.jpg")
+![Pasta with Chicken and a Parmasean Garlic Sauce.](https://www.sprinklesandsprouts.com/wp-content/uploads/2023/09/Garlic-Parmesan-Chicken-Pasta-Sq.jpg")
 
 # Some things I'd like to learn:
 
