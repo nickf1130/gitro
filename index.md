@@ -14,11 +14,11 @@
 # RIT Software Engineering Website:
 ---
 Information about [RIT Software Development](https://www.rit.edu/computing/department-software-engineering 'RIT') can be found at the hyperlink!
----
+
 
 # An image of my favorite food:
 
-![Pasta with Chicken and a Parmasean Garlic Sauce.](https://www.sprinklesandsprouts.com/wp-content/uploads/2023/09/Garlic-Parmesan-Chicken-Pasta-Sq.jpg")
+![Pasta with Chicken and a Parmasean Garlic Sauce.](https://www.sprinklesandsprouts.com/wp-content/uploads/2023/09/Garlic-Parmesan-Chicken-Pasta-Sq.jpg)
 
 # Some things I'd like to learn:
 
