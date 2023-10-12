@@ -14,7 +14,7 @@ title: SWEN 101 Github Intro
 
 # RIT Software Engineering Website:
 ---
-Information about **[RIT Software Development](https://www.rit.edu/computing/department-software-engineering)** can be found at the hyperlink!
+Information about [RIT Software Development](https://www.rit.edu/computing/department-software-engineering 'RIT') can be found at the hyperlink!
 ---
 
 # An image of my favorite food:
