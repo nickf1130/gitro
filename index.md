@@ -10,10 +10,10 @@
 ---
 <p>I have not learned much about CSS and HTML aside from very basic operation. I spent most of my classtime working with Python, Java, and JavaScript.</p>
 
-
 # RIT Software Engineering Website:
 ---
 Information about [RIT Software Development](https://www.rit.edu/computing/department-software-engineering 'RIT') can be found at the hyperlink!
+
 
 
 # An image of my favorite food:
@@ -26,4 +26,5 @@ Information about [RIT Software Development](https://www.rit.edu/computing/depar
   <li>A deeper dive into what it means to be a software engineer</li>
   <li>How to write good, efficient code</li>
   <li>How to never write bugs in your code</li>
+  <li>Figure out how Professor Krutz is so cool</li>
 </ul>  
